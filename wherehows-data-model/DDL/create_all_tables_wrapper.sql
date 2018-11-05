@@ -25,6 +25,7 @@ source ETL_DDL/owner_metadata.sql;
 source ETL_DDL/patterns.sql;
 
 source ETL_DDL/dataset_info_metadata.sql;
+source ETL_DDL/log.sql;
 
 source WEB_DDL/track.sql;
 source WEB_DDL/users.sql;
